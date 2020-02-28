@@ -1,0 +1,8 @@
+com/insightly/qa/pages/LoginPage.class
+com/insightly/qa/base/BaseClass.class
+com/insightly/qa/util/Utility.class
+com/insightly/qa/pages/HomePage.class
+com/insightly/qa/util/ExtentReportListener.class
+com/insightly/qa/util/WebEventListener.class
+com/insightly/qa/pages/TasksPage.class
+com/insightly/qa/pages/ContactsPage.class

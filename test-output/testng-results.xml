@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="13" passed="13">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Insightly Test Suite" duration-ms="99480" started-at="2020-02-28T17:47:55Z" finished-at="2020-02-28T17:49:35Z">
+    <groups>
+    </groups>
+    <test name="Insightly Test Cases" duration-ms="99480" started-at="2020-02-28T17:47:55Z" finished-at="2020-02-28T17:49:35Z">
+      <class name="com.insightly.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.insightly.qa.testcases.LoginPageTest@5e3a8624]" name="setUp" is-config="true" duration-ms="1561" started-at="2020-02-28T12:48:08Z" finished-at="2020-02-28T12:48:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.insightly.qa.testcases.LoginPageTest@5e3a8624]" name="loginPageTitleTest" duration-ms="17" started-at="2020-02-28T12:48:09Z" finished-at="2020-02-28T12:48:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.insightly.qa.testcases.LoginPageTest@5e3a8624]" name="tearDown" is-config="true" duration-ms="79" started-at="2020-02-28T12:48:09Z" finished-at="2020-02-28T12:48:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.insightly.qa.testcases.LoginPageTest@5e3a8624]" name="setUp" is-config="true" duration-ms="1510" started-at="2020-02-28T12:48:21Z" finished-at="2020-02-28T12:48:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="insightlyLogoTest()[pri:2, instance:com.insightly.qa.testcases.LoginPageTest@5e3a8624]" name="insightlyLogoTest" duration-ms="53" started-at="2020-02-28T12:48:23Z" finished-at="2020-02-28T12:48:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- insightlyLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.insightly.qa.testcases.LoginPageTest@5e3a8624]" name="tearDown" is-config="true" duration-ms="77" started-at="2020-02-28T12:48:23Z" finished-at="2020-02-28T12:48:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.insightly.qa.testcases.LoginPageTest@5e3a8624]" name="setUp" is-config="true" duration-ms="1495" started-at="2020-02-28T12:49:16Z" finished-at="2020-02-28T12:49:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.insightly.qa.testcases.LoginPageTest@5e3a8624]" name="loginTest" duration-ms="2580" started-at="2020-02-28T12:49:18Z" finished-at="2020-02-28T12:49:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.insightly.qa.testcases.LoginPageTest@5e3a8624]" name="tearDown" is-config="true" duration-ms="96" started-at="2020-02-28T12:49:20Z" finished-at="2020-02-28T12:49:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.insightly.qa.testcases.LoginPageTest -->
+      <class name="com.insightly.qa.testcases.ContactsPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.insightly.qa.testcases.ContactsPageTest@3bfdc050]" name="setUp" is-config="true" duration-ms="5435" started-at="2020-02-28T12:47:55Z" finished-at="2020-02-28T12:48:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateContactsPageTitleTest()[pri:1, instance:com.insightly.qa.testcases.ContactsPageTest@3bfdc050]" name="validateContactsPageTitleTest" duration-ms="3017" started-at="2020-02-28T12:48:01Z" finished-at="2020-02-28T12:48:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactsPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.insightly.qa.testcases.ContactsPageTest@3bfdc050]" name="tearDown" is-config="true" duration-ms="100" started-at="2020-02-28T12:48:04Z" finished-at="2020-02-28T12:48:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.insightly.qa.testcases.ContactsPageTest@3bfdc050]" name="setUp" is-config="true" duration-ms="4130" started-at="2020-02-28T12:48:10Z" finished-at="2020-02-28T12:48:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateContactsText()[pri:2, instance:com.insightly.qa.testcases.ContactsPageTest@3bfdc050]" name="validateContactsText" duration-ms="3044" started-at="2020-02-28T12:48:14Z" finished-at="2020-02-28T12:48:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactsText -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.insightly.qa.testcases.ContactsPageTest@3bfdc050]" name="tearDown" is-config="true" duration-ms="97" started-at="2020-02-28T12:48:17Z" finished-at="2020-02-28T12:48:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.insightly.qa.testcases.ContactsPageTest@3bfdc050]" name="setUp" is-config="true" duration-ms="9139" started-at="2020-02-28T12:48:23Z" finished-at="2020-02-28T12:48:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createNewContactsTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.insightly.qa.testcases.ContactsPageTest@3bfdc050]" name="createNewContactsTest" duration-ms="16912" started-at="2020-02-28T12:48:32Z" data-provider="getInsightlyTestData" finished-at="2020-02-28T12:48:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abba]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[alba]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[alba@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[555.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewContactsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.insightly.qa.testcases.ContactsPageTest@3bfdc050]" name="tearDown" is-config="true" duration-ms="102" started-at="2020-02-28T12:48:49Z" finished-at="2020-02-28T12:48:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.insightly.qa.testcases.ContactsPageTest@3bfdc050]" name="setUp" is-config="true" duration-ms="4296" started-at="2020-02-28T12:48:49Z" finished-at="2020-02-28T12:48:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createNewContactsTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.insightly.qa.testcases.ContactsPageTest@3bfdc050]" name="createNewContactsTest" duration-ms="6568" started-at="2020-02-28T12:48:54Z" data-provider="getInsightlyTestData" finished-at="2020-02-28T12:49:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[artur]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[alim]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[alim@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[666.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewContactsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.insightly.qa.testcases.ContactsPageTest@3bfdc050]" name="tearDown" is-config="true" duration-ms="116" started-at="2020-02-28T12:49:00Z" finished-at="2020-02-28T12:49:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.insightly.qa.testcases.ContactsPageTest@3bfdc050]" name="setUp" is-config="true" duration-ms="4536" started-at="2020-02-28T12:49:00Z" finished-at="2020-02-28T12:49:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createNewContactsTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.insightly.qa.testcases.ContactsPageTest@3bfdc050]" name="createNewContactsTest" duration-ms="6585" started-at="2020-02-28T12:49:05Z" data-provider="getInsightlyTestData" finished-at="2020-02-28T12:49:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ali]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abu]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ali@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[777.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewContactsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.insightly.qa.testcases.ContactsPageTest@3bfdc050]" name="tearDown" is-config="true" duration-ms="117" started-at="2020-02-28T12:49:12Z" finished-at="2020-02-28T12:49:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.insightly.qa.testcases.ContactsPageTest -->
+      <class name="com.insightly.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.insightly.qa.testcases.HomePageTest@1bce4f0a]" name="setUp" is-config="true" duration-ms="4127" started-at="2020-02-28T12:48:04Z" finished-at="2020-02-28T12:48:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateHomePageTitleTest()[pri:1, instance:com.insightly.qa.testcases.HomePageTest@1bce4f0a]" name="validateHomePageTitleTest" duration-ms="18" started-at="2020-02-28T12:48:08Z" finished-at="2020-02-28T12:48:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.insightly.qa.testcases.HomePageTest@1bce4f0a]" name="tearDown" is-config="true" duration-ms="87" started-at="2020-02-28T12:48:08Z" finished-at="2020-02-28T12:48:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.insightly.qa.testcases.HomePageTest@1bce4f0a]" name="setUp" is-config="true" duration-ms="4090" started-at="2020-02-28T12:48:17Z" finished-at="2020-02-28T12:48:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateUserMenuTest()[pri:2, instance:com.insightly.qa.testcases.HomePageTest@1bce4f0a]" name="validateUserMenuTest" duration-ms="155" started-at="2020-02-28T12:48:21Z" finished-at="2020-02-28T12:48:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUserMenuTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.insightly.qa.testcases.HomePageTest@1bce4f0a]" name="tearDown" is-config="true" duration-ms="107" started-at="2020-02-28T12:48:21Z" finished-at="2020-02-28T12:48:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.insightly.qa.testcases.HomePageTest@1bce4f0a]" name="setUp" is-config="true" duration-ms="4245" started-at="2020-02-28T12:49:12Z" finished-at="2020-02-28T12:49:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateClickOnTasksLinkTest()[pri:3, instance:com.insightly.qa.testcases.HomePageTest@1bce4f0a]" name="validateClickOnTasksLinkTest" duration-ms="226" started-at="2020-02-28T12:49:16Z" finished-at="2020-02-28T12:49:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateClickOnTasksLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.insightly.qa.testcases.HomePageTest@1bce4f0a]" name="tearDown" is-config="true" duration-ms="88" started-at="2020-02-28T12:49:16Z" finished-at="2020-02-28T12:49:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.insightly.qa.testcases.HomePageTest@1bce4f0a]" name="setUp" is-config="true" duration-ms="4162" started-at="2020-02-28T12:49:20Z" finished-at="2020-02-28T12:49:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateClickOnContactsLinkTest()[pri:4, instance:com.insightly.qa.testcases.HomePageTest@1bce4f0a]" name="validateClickOnContactsLinkTest" duration-ms="264" started-at="2020-02-28T12:49:25Z" finished-at="2020-02-28T12:49:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateClickOnContactsLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.insightly.qa.testcases.HomePageTest@1bce4f0a]" name="tearDown" is-config="true" duration-ms="88" started-at="2020-02-28T12:49:25Z" finished-at="2020-02-28T12:49:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.insightly.qa.testcases.HomePageTest@1bce4f0a]" name="setUp" is-config="true" duration-ms="9495" started-at="2020-02-28T12:49:25Z" finished-at="2020-02-28T12:49:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateTotalSalesRepsTest()[pri:5, instance:com.insightly.qa.testcases.HomePageTest@1bce4f0a]" name="validateTotalSalesRepsTest" duration-ms="26" started-at="2020-02-28T12:49:34Z" finished-at="2020-02-28T12:49:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTotalSalesRepsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.insightly.qa.testcases.HomePageTest@1bce4f0a]" name="tearDown" is-config="true" duration-ms="92" started-at="2020-02-28T12:49:34Z" finished-at="2020-02-28T12:49:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.insightly.qa.testcases.HomePageTest -->
+    </test> <!-- Insightly Test Cases -->
+  </suite> <!-- Insightly Test Suite -->
+</testng-results>
